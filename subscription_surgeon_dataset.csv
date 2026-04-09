@@ -1,0 +1,78 @@
+user_id,name,household_id,date,merchant,amount,category
+1,Jay,H1,2026-01-01,Netflix,499,OTT
+1,Jay,H1,2026-02-01,Netflix,499,OTT
+1,Jay,H1,2026-03-01,Netflix,499,OTT
+1,Jay,H1,2026-01-03,Spotify,119,OTT
+1,Jay,H1,2026-02-03,Spotify,119,OTT
+1,Jay,H1,2026-03-03,Spotify,119,OTT
+1,Jay,H1,2026-01-05,Gym,1500,Fitness
+1,Jay,H1,2026-02-05,Gym,1500,Fitness
+1,Jay,H1,2026-03-05,Gym,1500,Fitness
+1,Jay,H1,2026-03-10,ChatGPT Plus,999,SaaS
+1,Jay,H1,2026-03-15,YouTube Premium,129,OTT
+1,Jay,H1,2026-03-20,ExpressVPN,999,VPN
+2,Rahul,H1,2026-01-02,Netflix,499,OTT
+2,Rahul,H1,2026-02-02,Netflix,499,OTT
+2,Rahul,H1,2026-03-02,Netflix,499,OTT
+2,Rahul,H1,2026-01-04,Spotify,119,OTT
+2,Rahul,H1,2026-02-04,Spotify,119,OTT
+2,Rahul,H1,2026-03-04,Spotify,119,OTT
+2,Rahul,H1,2026-03-08,Hotstar,299,OTT
+2,Rahul,H1,2026-03-12,Medium,499,News
+2,Rahul,H1,2026-03-18,Adobe Creative Cloud,1675,SaaS
+3,Anita,H2,2026-01-01,Amazon Prime,299,OTT
+3,Anita,H2,2026-02-01,Amazon Prime,299,OTT
+3,Anita,H2,2026-03-01,Amazon Prime,299,OTT
+3,Anita,H2,2026-01-07,Cult Gym,2000,Fitness
+3,Anita,H2,2026-02-07,Cult Gym,2000,Fitness
+3,Anita,H2,2026-03-07,Cult Gym,2000,Fitness
+3,Anita,H2,2026-03-10,Notion,300,SaaS
+3,Anita,H2,2026-03-12,Canva Pro,499,SaaS
+3,Anita,H2,2026-03-14,Times Prime,999,OTT
+4,Riya,H2,2026-01-02,Amazon Prime,299,OTT
+4,Riya,H2,2026-02-02,Amazon Prime,299,OTT
+4,Riya,H2,2026-03-02,Amazon Prime,299,OTT
+4,Riya,H2,2026-03-05,YouTube Premium,129,OTT
+4,Riya,H2,2026-03-06,Spotify,119,OTT
+4,Riya,H2,2026-03-10,Grammarly,999,SaaS
+4,Riya,H2,2026-03-11,NordVPN,899,VPN
+5,Amit,H3,2026-01-03,Netflix,499,OTT
+5,Amit,H3,2026-02-03,Netflix,499,OTT
+5,Amit,H3,2026-03-03,Netflix,499,OTT
+5,Amit,H3,2026-01-05,Hotstar,299,OTT
+5,Amit,H3,2026-02-05,Hotstar,299,OTT
+5,Amit,H3,2026-03-05,Hotstar,299,OTT
+5,Amit,H3,2026-03-10,Adobe Creative Cloud,1675,SaaS
+5,Amit,H3,2026-03-12,ChatGPT Plus,999,SaaS
+5,Amit,H3,2026-03-14,ProtonVPN,799,VPN
+6,Neha,H3,2026-01-04,Netflix,499,OTT
+6,Neha,H3,2026-02-04,Netflix,499,OTT
+6,Neha,H3,2026-03-04,Netflix,499,OTT
+6,Neha,H3,2026-03-06,Spotify,119,OTT
+6,Neha,H3,2026-03-08,Medium,499,News
+6,Neha,H3,2026-03-10,Duolingo Plus,649,SaaS
+6,Neha,H3,2026-03-15,ExpressVPN,999,VPN
+7,Karan,H4,2026-01-01,YouTube Premium,129,OTT
+7,Karan,H4,2026-02-01,YouTube Premium,129,OTT
+7,Karan,H4,2026-03-01,YouTube Premium,129,OTT
+7,Karan,H4,2026-03-05,Gym,1200,Fitness
+7,Karan,H4,2026-03-10,Notion,300,SaaS
+7,Karan,H4,2026-03-15,Grammarly,999,SaaS
+8,Pooja,H4,2026-01-02,YouTube Premium,129,OTT
+8,Pooja,H4,2026-02-02,YouTube Premium,129,OTT
+8,Pooja,H4,2026-03-02,YouTube Premium,129,OTT
+8,Pooja,H4,2026-03-05,Spotify,119,OTT
+8,Pooja,H4,2026-03-07,Canva Pro,499,SaaS
+8,Pooja,H4,2026-03-09,NordVPN,899,VPN
+9,Rohit,H5,2026-01-01,Hotstar,299,OTT
+9,Rohit,H5,2026-02-01,Hotstar,299,OTT
+9,Rohit,H5,2026-03-01,Hotstar,299,OTT
+9,Rohit,H5,2026-03-05,Gym,1800,Fitness
+9,Rohit,H5,2026-03-10,Adobe Creative Cloud,1675,SaaS
+9,Rohit,H5,2026-03-15,ExpressVPN,999,VPN
+10,Sneha,H5,2026-01-02,Hotstar,299,OTT
+10,Sneha,H5,2026-02-02,Hotstar,299,OTT
+10,Sneha,H5,2026-03-02,Hotstar,299,OTT
+10,Sneha,H5,2026-03-05,Spotify,119,OTT
+10,Sneha,H5,2026-03-07,Medium,499,News
+10,Sneha,H5,2026-03-09,Canva Pro,499,SaaS
