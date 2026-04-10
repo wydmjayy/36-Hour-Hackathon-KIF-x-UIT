@@ -1,0 +1,28 @@
+{
+  "subscriptions": [
+    {
+      "merchant": "Netflix",
+      "amount": 649,
+      "category": "OTT",
+      "recency_days": 2
+    },
+    {
+      "merchant": "Spotify",
+      "amount": 119,
+      "category": "Music",
+      "recency_days": 7
+    },
+    {
+      "merchant": "Adobe CC",
+      "amount": 4230,
+      "category": "SaaS",
+      "recency_days": 24
+    },
+    {
+      "merchant": "Gym",
+      "amount": 2000,
+      "category": "Fitness",
+      "recency_days": 40
+    }
+  ]
+}

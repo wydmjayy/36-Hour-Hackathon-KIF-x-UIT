@@ -1,0 +1,774 @@
+{
+  "subscriptions": [
+    {
+      "user_id": "1",
+      "name": "Jay",
+      "household_id": "H1",
+      "date": "2026-01-01",
+      "merchant": "Netflix",
+      "amount": 499,
+      "category": "OTT",
+      "recency_days": 19
+    },
+    {
+      "user_id": "1",
+      "name": "Jay",
+      "household_id": "H1",
+      "date": "2026-02-01",
+      "merchant": "Netflix",
+      "amount": 499,
+      "category": "OTT",
+      "recency_days": 19
+    },
+    {
+      "user_id": "1",
+      "name": "Jay",
+      "household_id": "H1",
+      "date": "2026-03-01",
+      "merchant": "Netflix",
+      "amount": 499,
+      "category": "OTT",
+      "recency_days": 19
+    },
+    {
+      "user_id": "1",
+      "name": "Jay",
+      "household_id": "H1",
+      "date": "2026-01-03",
+      "merchant": "Spotify",
+      "amount": 119,
+      "category": "OTT",
+      "recency_days": 17
+    },
+    {
+      "user_id": "1",
+      "name": "Jay",
+      "household_id": "H1",
+      "date": "2026-02-03",
+      "merchant": "Spotify",
+      "amount": 119,
+      "category": "OTT",
+      "recency_days": 17
+    },
+    {
+      "user_id": "1",
+      "name": "Jay",
+      "household_id": "H1",
+      "date": "2026-03-03",
+      "merchant": "Spotify",
+      "amount": 119,
+      "category": "OTT",
+      "recency_days": 17
+    },
+    {
+      "user_id": "1",
+      "name": "Jay",
+      "household_id": "H1",
+      "date": "2026-01-05",
+      "merchant": "Gym",
+      "amount": 1500,
+      "category": "Fitness",
+      "recency_days": 15
+    },
+    {
+      "user_id": "1",
+      "name": "Jay",
+      "household_id": "H1",
+      "date": "2026-02-05",
+      "merchant": "Gym",
+      "amount": 1500,
+      "category": "Fitness",
+      "recency_days": 15
+    },
+    {
+      "user_id": "1",
+      "name": "Jay",
+      "household_id": "H1",
+      "date": "2026-03-05",
+      "merchant": "Gym",
+      "amount": 1500,
+      "category": "Fitness",
+      "recency_days": 15
+    },
+    {
+      "user_id": "1",
+      "name": "Jay",
+      "household_id": "H1",
+      "date": "2026-03-10",
+      "merchant": "ChatGPT Plus",
+      "amount": 999,
+      "category": "SaaS",
+      "recency_days": 10
+    },
+    {
+      "user_id": "1",
+      "name": "Jay",
+      "household_id": "H1",
+      "date": "2026-03-15",
+      "merchant": "YouTube Premium",
+      "amount": 129,
+      "category": "OTT",
+      "recency_days": 5
+    },
+    {
+      "user_id": "1",
+      "name": "Jay",
+      "household_id": "H1",
+      "date": "2026-03-20",
+      "merchant": "ExpressVPN",
+      "amount": 999,
+      "category": "VPN",
+      "recency_days": 0
+    },
+    {
+      "user_id": "2",
+      "name": "Pavan",
+      "household_id": "H1",
+      "date": "2026-01-02",
+      "merchant": "Netflix",
+      "amount": 499,
+      "category": "OTT",
+      "recency_days": 18
+    },
+    {
+      "user_id": "2",
+      "name": "Pavan",
+      "household_id": "H1",
+      "date": "2026-02-02",
+      "merchant": "Netflix",
+      "amount": 499,
+      "category": "OTT",
+      "recency_days": 18
+    },
+    {
+      "user_id": "2",
+      "name": "Pavan",
+      "household_id": "H1",
+      "date": "2026-03-02",
+      "merchant": "Netflix",
+      "amount": 499,
+      "category": "OTT",
+      "recency_days": 18
+    },
+    {
+      "user_id": "2",
+      "name": "Pavan",
+      "household_id": "H1",
+      "date": "2026-01-04",
+      "merchant": "Spotify",
+      "amount": 119,
+      "category": "OTT",
+      "recency_days": 16
+    },
+    {
+      "user_id": "2",
+      "name": "Pavan",
+      "household_id": "H1",
+      "date": "2026-02-04",
+      "merchant": "Spotify",
+      "amount": 119,
+      "category": "OTT",
+      "recency_days": 16
+    },
+    {
+      "user_id": "2",
+      "name": "Pavan",
+      "household_id": "H1",
+      "date": "2026-03-04",
+      "merchant": "Spotify",
+      "amount": 119,
+      "category": "OTT",
+      "recency_days": 16
+    },
+    {
+      "user_id": "2",
+      "name": "Pavan",
+      "household_id": "H1",
+      "date": "2026-03-08",
+      "merchant": "Hotstar",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 12
+    },
+    {
+      "user_id": "2",
+      "name": "Pavan",
+      "household_id": "H1",
+      "date": "2026-03-12",
+      "merchant": "Medium",
+      "amount": 499,
+      "category": "News",
+      "recency_days": 8
+    },
+    {
+      "user_id": "2",
+      "name": "Pavan",
+      "household_id": "H1",
+      "date": "2026-03-18",
+      "merchant": "Adobe Creative Cloud",
+      "amount": 1675,
+      "category": "SaaS",
+      "recency_days": 2
+    },
+    {
+      "user_id": "3",
+      "name": "Anita",
+      "household_id": "H2",
+      "date": "2026-01-01",
+      "merchant": "Amazon Prime",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 19
+    },
+    {
+      "user_id": "3",
+      "name": "Anita",
+      "household_id": "H2",
+      "date": "2026-02-01",
+      "merchant": "Amazon Prime",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 19
+    },
+    {
+      "user_id": "3",
+      "name": "Anita",
+      "household_id": "H2",
+      "date": "2026-03-01",
+      "merchant": "Amazon Prime",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 19
+    },
+    {
+      "user_id": "3",
+      "name": "Anita",
+      "household_id": "H2",
+      "date": "2026-01-07",
+      "merchant": "Cult Gym",
+      "amount": 2000,
+      "category": "Fitness",
+      "recency_days": 13
+    },
+    {
+      "user_id": "3",
+      "name": "Anita",
+      "household_id": "H2",
+      "date": "2026-02-07",
+      "merchant": "Cult Gym",
+      "amount": 2000,
+      "category": "Fitness",
+      "recency_days": 13
+    },
+    {
+      "user_id": "3",
+      "name": "Anita",
+      "household_id": "H2",
+      "date": "2026-03-07",
+      "merchant": "Cult Gym",
+      "amount": 2000,
+      "category": "Fitness",
+      "recency_days": 13
+    },
+    {
+      "user_id": "3",
+      "name": "Anita",
+      "household_id": "H2",
+      "date": "2026-03-10",
+      "merchant": "Notion",
+      "amount": 300,
+      "category": "SaaS",
+      "recency_days": 10
+    },
+    {
+      "user_id": "3",
+      "name": "Anita",
+      "household_id": "H2",
+      "date": "2026-03-12",
+      "merchant": "Canva Pro",
+      "amount": 499,
+      "category": "SaaS",
+      "recency_days": 8
+    },
+    {
+      "user_id": "3",
+      "name": "Anita",
+      "household_id": "H2",
+      "date": "2026-03-14",
+      "merchant": "Times Prime",
+      "amount": 999,
+      "category": "OTT",
+      "recency_days": 6
+    },
+    {
+      "user_id": "4",
+      "name": "Akruti",
+      "household_id": "H2",
+      "date": "2026-01-02",
+      "merchant": "Amazon Prime",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 18
+    },
+    {
+      "user_id": "4",
+      "name": "Akruti",
+      "household_id": "H2",
+      "date": "2026-02-02",
+      "merchant": "Amazon Prime",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 18
+    },
+    {
+      "user_id": "4",
+      "name": "Akruti",
+      "household_id": "H2",
+      "date": "2026-03-02",
+      "merchant": "Amazon Prime",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 18
+    },
+    {
+      "user_id": "4",
+      "name": "Akruti",
+      "household_id": "H2",
+      "date": "2026-03-05",
+      "merchant": "YouTube Premium",
+      "amount": 129,
+      "category": "OTT",
+      "recency_days": 15
+    },
+    {
+      "user_id": "4",
+      "name": "Akruti",
+      "household_id": "H2",
+      "date": "2026-03-06",
+      "merchant": "Spotify",
+      "amount": 119,
+      "category": "OTT",
+      "recency_days": 14
+    },
+    {
+      "user_id": "4",
+      "name": "Akruti",
+      "household_id": "H2",
+      "date": "2026-03-10",
+      "merchant": "Grammarly",
+      "amount": 999,
+      "category": "SaaS",
+      "recency_days": 10
+    },
+    {
+      "user_id": "4",
+      "name": "Akruti",
+      "household_id": "H2",
+      "date": "2026-03-11",
+      "merchant": "NordVPN",
+      "amount": 899,
+      "category": "VPN",
+      "recency_days": 9
+    },
+    {
+      "user_id": "5",
+      "name": "Ishika",
+      "household_id": "H3",
+      "date": "2026-01-03",
+      "merchant": "Netflix",
+      "amount": 499,
+      "category": "OTT",
+      "recency_days": 17
+    },
+    {
+      "user_id": "5",
+      "name": "Ishika",
+      "household_id": "H3",
+      "date": "2026-02-03",
+      "merchant": "Netflix",
+      "amount": 499,
+      "category": "OTT",
+      "recency_days": 17
+    },
+    {
+      "user_id": "5",
+      "name": "Ishika",
+      "household_id": "H3",
+      "date": "2026-03-03",
+      "merchant": "Netflix",
+      "amount": 499,
+      "category": "OTT",
+      "recency_days": 17
+    },
+    {
+      "user_id": "5",
+      "name": "Ishika",
+      "household_id": "H3",
+      "date": "2026-01-05",
+      "merchant": "Hotstar",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 15
+    },
+    {
+      "user_id": "5",
+      "name": "Ishika",
+      "household_id": "H3",
+      "date": "2026-02-05",
+      "merchant": "Hotstar",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 15
+    },
+    {
+      "user_id": "5",
+      "name": "Ishika",
+      "household_id": "H3",
+      "date": "2026-03-05",
+      "merchant": "Hotstar",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 15
+    },
+    {
+      "user_id": "5",
+      "name": "Ishika",
+      "household_id": "H3",
+      "date": "2026-03-10",
+      "merchant": "Adobe Creative Cloud",
+      "amount": 1675,
+      "category": "SaaS",
+      "recency_days": 10
+    },
+    {
+      "user_id": "5",
+      "name": "Ishika",
+      "household_id": "H3",
+      "date": "2026-03-12",
+      "merchant": "ChatGPT Plus",
+      "amount": 999,
+      "category": "SaaS",
+      "recency_days": 8
+    },
+    {
+      "user_id": "5",
+      "name": "Ishika",
+      "household_id": "H3",
+      "date": "2026-03-14",
+      "merchant": "ProtonVPN",
+      "amount": 799,
+      "category": "VPN",
+      "recency_days": 6
+    },
+    {
+      "user_id": "6",
+      "name": "Mitwa",
+      "household_id": "H3",
+      "date": "2026-01-04",
+      "merchant": "Netflix",
+      "amount": 499,
+      "category": "OTT",
+      "recency_days": 16
+    },
+    {
+      "user_id": "6",
+      "name": "Mitwa",
+      "household_id": "H3",
+      "date": "2026-02-04",
+      "merchant": "Netflix",
+      "amount": 499,
+      "category": "OTT",
+      "recency_days": 16
+    },
+    {
+      "user_id": "6",
+      "name": "Mitwa",
+      "household_id": "H3",
+      "date": "2026-03-04",
+      "merchant": "Netflix",
+      "amount": 499,
+      "category": "OTT",
+      "recency_days": 16
+    },
+    {
+      "user_id": "6",
+      "name": "Mitwa",
+      "household_id": "H3",
+      "date": "2026-03-06",
+      "merchant": "Spotify",
+      "amount": 119,
+      "category": "OTT",
+      "recency_days": 14
+    },
+    {
+      "user_id": "6",
+      "name": "Mitwa",
+      "household_id": "H3",
+      "date": "2026-03-08",
+      "merchant": "Medium",
+      "amount": 499,
+      "category": "News",
+      "recency_days": 12
+    },
+    {
+      "user_id": "6",
+      "name": "Mitwa",
+      "household_id": "H3",
+      "date": "2026-03-10",
+      "merchant": "Duolingo Plus",
+      "amount": 649,
+      "category": "SaaS",
+      "recency_days": 10
+    },
+    {
+      "user_id": "6",
+      "name": "Mitwa",
+      "household_id": "H3",
+      "date": "2026-03-15",
+      "merchant": "ExpressVPN",
+      "amount": 999,
+      "category": "VPN",
+      "recency_days": 5
+    },
+    {
+      "user_id": "7",
+      "name": "Aditya",
+      "household_id": "H4",
+      "date": "2026-01-01",
+      "merchant": "YouTube Premium",
+      "amount": 129,
+      "category": "OTT",
+      "recency_days": 19
+    },
+    {
+      "user_id": "7",
+      "name": "Aditya",
+      "household_id": "H4",
+      "date": "2026-02-01",
+      "merchant": "YouTube Premium",
+      "amount": 129,
+      "category": "OTT",
+      "recency_days": 19
+    },
+    {
+      "user_id": "7",
+      "name": "Aditya",
+      "household_id": "H4",
+      "date": "2026-03-01",
+      "merchant": "YouTube Premium",
+      "amount": 129,
+      "category": "OTT",
+      "recency_days": 19
+    },
+    {
+      "user_id": "7",
+      "name": "Aditya",
+      "household_id": "H4",
+      "date": "2026-03-05",
+      "merchant": "Gym",
+      "amount": 1200,
+      "category": "Fitness",
+      "recency_days": 15
+    },
+    {
+      "user_id": "7",
+      "name": "Aditya",
+      "household_id": "H4",
+      "date": "2026-03-10",
+      "merchant": "Notion",
+      "amount": 300,
+      "category": "SaaS",
+      "recency_days": 10
+    },
+    {
+      "user_id": "7",
+      "name": "Aditya",
+      "household_id": "H4",
+      "date": "2026-03-15",
+      "merchant": "Grammarly",
+      "amount": 999,
+      "category": "SaaS",
+      "recency_days": 5
+    },
+    {
+      "user_id": "8",
+      "name": "Pooja",
+      "household_id": "H4",
+      "date": "2026-01-02",
+      "merchant": "YouTube Premium",
+      "amount": 129,
+      "category": "OTT",
+      "recency_days": 18
+    },
+    {
+      "user_id": "8",
+      "name": "Pooja",
+      "household_id": "H4",
+      "date": "2026-02-02",
+      "merchant": "YouTube Premium",
+      "amount": 129,
+      "category": "OTT",
+      "recency_days": 18
+    },
+    {
+      "user_id": "8",
+      "name": "Pooja",
+      "household_id": "H4",
+      "date": "2026-03-02",
+      "merchant": "YouTube Premium",
+      "amount": 129,
+      "category": "OTT",
+      "recency_days": 18
+    },
+    {
+      "user_id": "8",
+      "name": "Pooja",
+      "household_id": "H4",
+      "date": "2026-03-05",
+      "merchant": "Spotify",
+      "amount": 119,
+      "category": "OTT",
+      "recency_days": 15
+    },
+    {
+      "user_id": "8",
+      "name": "Pooja",
+      "household_id": "H4",
+      "date": "2026-03-07",
+      "merchant": "Canva Pro",
+      "amount": 499,
+      "category": "SaaS",
+      "recency_days": 13
+    },
+    {
+      "user_id": "8",
+      "name": "Pooja",
+      "household_id": "H4",
+      "date": "2026-03-09",
+      "merchant": "NordVPN",
+      "amount": 899,
+      "category": "VPN",
+      "recency_days": 11
+    },
+    {
+      "user_id": "9",
+      "name": "Rohit",
+      "household_id": "H5",
+      "date": "2026-01-01",
+      "merchant": "Hotstar",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 19
+    },
+    {
+      "user_id": "9",
+      "name": "Rohit",
+      "household_id": "H5",
+      "date": "2026-02-01",
+      "merchant": "Hotstar",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 19
+    },
+    {
+      "user_id": "9",
+      "name": "Rohit",
+      "household_id": "H5",
+      "date": "2026-03-01",
+      "merchant": "Hotstar",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 19
+    },
+    {
+      "user_id": "9",
+      "name": "Rohit",
+      "household_id": "H5",
+      "date": "2026-03-05",
+      "merchant": "Gym",
+      "amount": 1800,
+      "category": "Fitness",
+      "recency_days": 15
+    },
+    {
+      "user_id": "9",
+      "name": "Rohit",
+      "household_id": "H5",
+      "date": "2026-03-10",
+      "merchant": "Adobe Creative Cloud",
+      "amount": 1675,
+      "category": "SaaS",
+      "recency_days": 10
+    },
+    {
+      "user_id": "9",
+      "name": "Rohit",
+      "household_id": "H5",
+      "date": "2026-03-15",
+      "merchant": "ExpressVPN",
+      "amount": 999,
+      "category": "VPN",
+      "recency_days": 5
+    },
+    {
+      "user_id": "10",
+      "name": "Sneha",
+      "household_id": "H5",
+      "date": "2026-01-02",
+      "merchant": "Hotstar",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 18
+    },
+    {
+      "user_id": "10",
+      "name": "Sneha",
+      "household_id": "H5",
+      "date": "2026-02-02",
+      "merchant": "Hotstar",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 18
+    },
+    {
+      "user_id": "10",
+      "name": "Sneha",
+      "household_id": "H5",
+      "date": "2026-03-02",
+      "merchant": "Hotstar",
+      "amount": 299,
+      "category": "OTT",
+      "recency_days": 18
+    },
+    {
+      "user_id": "10",
+      "name": "Sneha",
+      "household_id": "H5",
+      "date": "2026-03-05",
+      "merchant": "Spotify",
+      "amount": 119,
+      "category": "OTT",
+      "recency_days": 15
+    },
+    {
+      "user_id": "10",
+      "name": "Sneha",
+      "household_id": "H5",
+      "date": "2026-03-07",
+      "merchant": "Medium",
+      "amount": 499,
+      "category": "News",
+      "recency_days": 13
+    },
+    {
+      "user_id": "10",
+      "name": "Sneha",
+      "household_id": "H5",
+      "date": "2026-03-09",
+      "merchant": "Canva Pro",
+      "amount": 499,
+      "category": "SaaS",
+      "recency_days": 11
+    }
+  ]
+}

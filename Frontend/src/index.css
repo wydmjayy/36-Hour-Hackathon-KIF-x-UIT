@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-warmBg text-textDark antialiased;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-bold text-textDark;
+}
+
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+  outline: none;
+}
+
+/* Custom Scrollbar for Queue */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  @apply bg-gray-200 rounded-full hover:bg-gray-300 transition-colors;
+}
+
+/* Component Classes */
+@layer components {
+  .btn-primary {
+    @apply px-6 py-3 bg-primary-500 text-white font-bold rounded-xl transition-all duration-250 hover:bg-primary-600 active:scale-95 disabled:bg-gray-400 disabled:cursor-not-allowed shadow-lg shadow-primary-500/20;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-3 bg-white border-2 border-primary-500 text-primary-500 font-bold rounded-xl transition-all duration-250 hover:bg-primary-50 active:scale-95 disabled:border-gray-400 disabled:text-gray-400 disabled:cursor-not-allowed;
+  }
+
+  .input-base {
+    @apply w-full px-4 py-3 border-2 border-gray-100 bg-white rounded-xl transition-all duration-250 focus:border-primary-500 focus:ring-1 focus:ring-primary-500 outline-none;
+  }
+
+  .input-error {
+    @apply border-error focus:border-error focus:ring-error;
+  }
+
+  .card-base {
+    @apply bg-white rounded-2xl shadow-sm border border-gray-50 p-6 transition-all duration-250 hover:shadow-md;
+  }
+
+  .auth-card {
+    @apply w-full max-w-md bg-white rounded-3xl shadow-xl p-8 mx-auto border border-gray-100;
+  }
+
+  .flex-center {
+    @apply flex items-center justify-center;
+  }
+
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-500 to-accent-500 font-black;
+  }
+
+  .transition-smooth {
+    @apply transition-all duration-250 ease-in-out;
+  }
+}
