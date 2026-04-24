@@ -1,0 +1,440 @@
+[
+  {
+    "date": "2025-12-31",
+    "merchant": "Netflix",
+    "amount": 499,
+    "category": "OTT"
+  },
+  {
+    "date": "2025-12-31",
+    "merchant": "YouTube Premium",
+    "amount": 129,
+    "category": "OTT"
+  },
+  {
+    "date": "2025-12-31",
+    "merchant": "Amazon Prime",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2025-12-31",
+    "merchant": "Hotstar",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-01-31",
+    "merchant": "Amazon Prime",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-01-31",
+    "merchant": "YouTube Premium",
+    "amount": 129,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-01-31",
+    "merchant": "Hotstar",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-01-31",
+    "merchant": "Netflix",
+    "amount": 499,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-02-28",
+    "merchant": "Netflix",
+    "amount": 499,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-02-28",
+    "merchant": "Spotify",
+    "amount": 119,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-03-31",
+    "merchant": "Netflix",
+    "amount": 499,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-03-31",
+    "merchant": "Spotify",
+    "amount": 119,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-04-30",
+    "merchant": "Hotstar",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-04-30",
+    "merchant": "Gym",
+    "amount": 1500,
+    "category": "Fitness"
+  },
+  {
+    "date": "2026-06-30",
+    "merchant": "Cult Gym",
+    "amount": 2000,
+    "category": "Fitness"
+  },
+  {
+    "date": "2026-01-01",
+    "merchant": "Amazon Prime",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-01-01",
+    "merchant": "Netflix",
+    "amount": 499,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-01-01",
+    "merchant": "YouTube Premium",
+    "amount": 129,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-01-01",
+    "merchant": "Hotstar",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-02-01",
+    "merchant": "YouTube Premium",
+    "amount": 129,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-02-01",
+    "merchant": "Hotstar",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-02-01",
+    "merchant": "Netflix",
+    "amount": 499,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-02-01",
+    "merchant": "Reliance Smart",
+    "amount": 2300,
+    "category": "Groceries"
+  },
+  {
+    "date": "2026-02-01",
+    "merchant": "Amazon Prime",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-03-01",
+    "merchant": "Spotify",
+    "amount": 119,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-03-01",
+    "merchant": "Netflix",
+    "amount": 499,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-04-01",
+    "merchant": "Spotify",
+    "amount": 119,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-04-01",
+    "merchant": "Netflix",
+    "amount": 499,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-05-01",
+    "merchant": "Gym",
+    "amount": 1500,
+    "category": "Fitness"
+  },
+  {
+    "date": "2026-05-01",
+    "merchant": "Indian Oil",
+    "amount": 1500,
+    "category": "Fuel"
+  },
+  {
+    "date": "2026-05-01",
+    "merchant": "Hotstar",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-07-01",
+    "merchant": "Cult Gym",
+    "amount": 2000,
+    "category": "Fitness"
+  },
+  {
+    "date": "2026-08-01",
+    "merchant": "Swiggy",
+    "amount": 450,
+    "category": "Food"
+  },
+  {
+    "date": "2026-11-01",
+    "merchant": "Zomato",
+    "amount": 600,
+    "category": "Food"
+  },
+  {
+    "date": "2026-01-02",
+    "merchant": "YouTube Premium",
+    "amount": 129,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-01-02",
+    "merchant": "Amazon Prime",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-01-02",
+    "merchant": "Netflix",
+    "amount": 499,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-01-02",
+    "merchant": "Hotstar",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-02-02",
+    "merchant": "Hotstar",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-02-02",
+    "merchant": "YouTube Premium",
+    "amount": 129,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-02-02",
+    "merchant": "Amazon Prime",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-02-02",
+    "merchant": "Netflix",
+    "amount": 499,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-03-02",
+    "merchant": "Spotify",
+    "amount": 119,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-03-02",
+    "merchant": "Netflix",
+    "amount": 499,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-04-02",
+    "merchant": "Spotify",
+    "amount": 119,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-04-02",
+    "merchant": "Netflix",
+    "amount": 499,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-05-02",
+    "merchant": "Spotify",
+    "amount": 119,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-05-02",
+    "merchant": "Gym",
+    "amount": 1200,
+    "category": "Fitness"
+  },
+  {
+    "date": "2026-05-02",
+    "merchant": "Gym",
+    "amount": 1800,
+    "category": "Fitness"
+  },
+  {
+    "date": "2026-05-02",
+    "merchant": "Spotify",
+    "amount": 119,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-05-02",
+    "merchant": "Gym",
+    "amount": 1500,
+    "category": "Fitness"
+  },
+  {
+    "date": "2026-05-02",
+    "merchant": "Hotstar",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-05-02",
+    "merchant": "YouTube Premium",
+    "amount": 129,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-06-02",
+    "merchant": "Spotify",
+    "amount": 119,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-06-02",
+    "merchant": "Spotify",
+    "amount": 119,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-07-02",
+    "merchant": "Medium",
+    "amount": 499,
+    "category": "News"
+  },
+  {
+    "date": "2026-07-02",
+    "merchant": "Canva Pro",
+    "amount": 499,
+    "category": "SaaS"
+  },
+  {
+    "date": "2026-07-02",
+    "merchant": "Cult Gym",
+    "amount": 2000,
+    "category": "Fitness"
+  },
+  {
+    "date": "2026-08-02",
+    "merchant": "Hotstar",
+    "amount": 299,
+    "category": "OTT"
+  },
+  {
+    "date": "2026-08-02",
+    "merchant": "Medium",
+    "amount": 499,
+    "category": "News"
+  },
+  {
+    "date": "2026-09-02",
+    "merchant": "Canva Pro",
+    "amount": 499,
+    "category": "SaaS"
+  },
+  {
+    "date": "2026-09-02",
+    "merchant": "NordVPN",
+    "amount": 899,
+    "category": "VPN"
+  },
+  {
+    "date": "2026-10-02",
+    "merchant": "Notion",
+    "amount": 300,
+    "category": "SaaS"
+  },
+  {
+    "date": "2026-10-02",
+    "merchant": "Adobe Creative Cloud",
+    "amount": 1675,
+    "category": "SaaS"
+  },
+  {
+    "date": "2026-10-02",
+    "merchant": "ChatGPT Plus",
+    "amount": 999,
+    "category": "SaaS"
+  },
+  {
+    "date": "2026-10-02",
+    "merchant": "Grammarly",
+    "amount": 999,
+    "category": "SaaS"
+  },
+  {
+    "date": "2026-10-02",
+    "merchant": "Duolingo Plus",
+    "amount": 649,
+    "category": "SaaS"
+  },
+  {
+    "date": "2026-10-02",
+    "merchant": "Notion",
+    "amount": 300,
+    "category": "SaaS"
+  },
+  {
+    "date": "2026-10-02",
+    "merchant": "Adobe Creative Cloud",
+    "amount": 1675,
+    "category": "SaaS"
+  },
+  {
+    "date": "2026-11-02",
+    "merchant": "NordVPN",
+    "amount": 899,
+    "category": "VPN"
+  },
+  {
+    "date": "2026-12-02",
+    "merchant": "Medium",
+    "amount": 499,
+    "category": "News"
+  },
+  {
+    "date": "2026-12-02",
+    "merchant": "Canva Pro",
+    "amount": 499,
+    "category": "SaaS"
+  },
+  {
+    "date": "2026-12-02",
+    "merchant": "ChatGPT Plus",
+    "amount": 999,
+    "category": "SaaS"
+  }
+]

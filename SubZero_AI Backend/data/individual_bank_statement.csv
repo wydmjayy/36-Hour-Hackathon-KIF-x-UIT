@@ -1,0 +1,86 @@
+user_id,name,date,merchant,amount,category,recency_days
+1,Jay,01-01-2026,Netflix,499,OTT,19
+7,Jay,01-01-2026,YouTube Premium,129,OTT,19
+3,Jay,01-01-2026,Amazon Prime,299,OTT,19
+9,Jay,01-01-2026,Hotstar,299,OTT,19
+4,Jay,02-01-2026,Amazon Prime,299,OTT,18
+8,Jay,02-01-2026,YouTube Premium,129,OTT,18
+10,Jay,02-01-2026,Hotstar,299,OTT,18
+2,Jay,02-01-2026,Netflix,499,OTT,18
+5,Jay,03-01-2026,Netflix,499,OTT,17
+1,Jay,03-01-2026,Spotify,119,OTT,17
+6,Jay,04-01-2026,Netflix,499,OTT,16
+2,Jay,04-01-2026,Spotify,119,OTT,16
+5,Jay,05-01-2026,Hotstar,299,OTT,15
+1,Jay,05-01-2026,Gym,1500,Fitness,15
+3,Jay,07-01-2026,Cult Gym,2000,Fitness,13
+3,Jay,01-02-2026,Amazon Prime,299,OTT,19
+1,Jay,01-02-2026,Netflix,499,OTT,19
+7,Jay,01-02-2026,YouTube Premium,129,OTT,19
+9,Jay,01-02-2026,Hotstar,299,OTT,19
+8,Jay,02-02-2026,YouTube Premium,129,OTT,18
+10,Jay,02-02-2026,Hotstar,299,OTT,18
+2,Jay,02-02-2026,Netflix,499,OTT,18
+1,Jay,02-02-2026,Reliance Smart,2300,Groceries,10
+4,Jay,02-02-2026,Amazon Prime,299,OTT,18
+1,Jay,03-02-2026,Spotify,119,OTT,17
+5,Jay,03-02-2026,Netflix,499,OTT,17
+2,Jay,04-02-2026,Spotify,119,OTT,16
+6,Jay,04-02-2026,Netflix,499,OTT,16
+1,Jay,05-02-2026,Gym,1500,Fitness,15
+1,Jay,05-02-2026,Indian Oil,1500,Fuel,8
+5,Jay,05-02-2026,Hotstar,299,OTT,15
+3,Jay,07-02-2026,Cult Gym,2000,Fitness,13
+1,Jay,08-02-2026,Swiggy,450,Food,6
+1,Jay,11-02-2026,Zomato,600,Food,5
+1,Jay,14-02-2026,Electricity Bill,1800,Utilities,4
+1,Jay,18-02-2026,Uber,350,Transport,3
+1,Jay,21-02-2026,Amazon,2200,Shopping,2
+1,Jay,25-02-2026,Flipkart,1200,Shopping,1
+7,Jay,01-03-2026,YouTube Premium,129,OTT,19
+3,Jay,01-03-2026,Amazon Prime,299,OTT,19
+1,Jay,01-03-2026,Netflix,499,OTT,19
+9,Jay,01-03-2026,Hotstar,299,OTT,19
+10,Jay,02-03-2026,Hotstar,299,OTT,18
+8,Jay,02-03-2026,YouTube Premium,129,OTT,18
+4,Jay,02-03-2026,Amazon Prime,299,OTT,18
+2,Jay,02-03-2026,Netflix,499,OTT,18
+1,Jay,03-03-2026,Spotify,119,OTT,17
+5,Jay,03-03-2026,Netflix,499,OTT,17
+2,Jay,04-03-2026,Spotify,119,OTT,16
+6,Jay,04-03-2026,Netflix,499,OTT,16
+10,Jay,05-03-2026,Spotify,119,OTT,15
+7,Jay,05-03-2026,Gym,1200,Fitness,15
+9,Jay,05-03-2026,Gym,1800,Fitness,15
+8,Jay,05-03-2026,Spotify,119,OTT,15
+1,Jay,05-03-2026,Gym,1500,Fitness,15
+5,Jay,05-03-2026,Hotstar,299,OTT,15
+4,Jay,05-03-2026,YouTube Premium,129,OTT,15
+4,Jay,06-03-2026,Spotify,119,OTT,14
+6,Jay,06-03-2026,Spotify,119,OTT,14
+10,Jay,07-03-2026,Medium,499,News,13
+8,Jay,07-03-2026,Canva Pro,499,SaaS,13
+3,Jay,07-03-2026,Cult Gym,2000,Fitness,13
+2,Jay,08-03-2026,Hotstar,299,OTT,12
+6,Jay,08-03-2026,Medium,499,News,12
+10,Jay,09-03-2026,Canva Pro,499,SaaS,11
+8,Jay,09-03-2026,NordVPN,899,VPN,11
+3,Jay,10-03-2026,Notion,300,SaaS,10
+5,Jay,10-03-2026,Adobe Creative Cloud,1675,SaaS,10
+1,Jay,10-03-2026,ChatGPT Plus,999,SaaS,10
+4,Jay,10-03-2026,Grammarly,999,SaaS,10
+6,Jay,10-03-2026,Duolingo Plus,649,SaaS,10
+7,Jay,10-03-2026,Notion,300,SaaS,10
+9,Jay,10-03-2026,Adobe Creative Cloud,1675,SaaS,10
+4,Jay,11-03-2026,NordVPN,899,VPN,9
+2,Jay,12-03-2026,Medium,499,News,8
+3,Jay,12-03-2026,Canva Pro,499,SaaS,8
+5,Jay,12-03-2026,ChatGPT Plus,999,SaaS,8
+3,Jay,14-03-2026,Times Prime,999,OTT,6
+5,Jay,14-03-2026,ProtonVPN,799,VPN,6
+1,Jay,15-03-2026,YouTube Premium,129,OTT,5
+6,Jay,15-03-2026,ExpressVPN,999,VPN,5
+7,Jay,15-03-2026,Grammarly,999,SaaS,5
+9,Jay,15-03-2026,ExpressVPN,999,VPN,5
+2,Jay,18-03-2026,Adobe Creative Cloud,1675,SaaS,2
+1,Jay,20-03-2026,ExpressVPN,999,VPN,0
